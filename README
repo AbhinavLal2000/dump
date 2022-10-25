@@ -1,0 +1,30 @@
+I created this repository for learning git/github
+
+STEP 1
+
+install git in PC and then create a directory
+
+STEP 2
+
+add user.name and user.email 
+
+
+STEP 3
+
+git init in the created repository
+
+STEP 4
+
+make some files and then add and commit those files
+
+STEP 5
+
+create a SSH key as per instructions given by github
+
+STEP 6
+
+add this SSH key in github profile
+
+STEP 7
+
+add remote of the repository and then push the files to remote
